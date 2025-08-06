@@ -7,10 +7,10 @@ Tasks are saved in a `tasks.txt` file so they persist even after you close the p
 ---
 
 ## 🚀 Features
-- ✅ Add new tasks
-- 🗑️ Delete existing tasks
-- 📋 View your current task list
-- 💾 Saves tasks to a text file for future use
+-  Add new tasks
+-  Delete existing tasks
+-  View your current task list
+-  Saves tasks to a text file for future use
 
 ---
 
